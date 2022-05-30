@@ -1,1 +1,1 @@
-# Run with Node 14^
+# Run with Node ^14.0.0
